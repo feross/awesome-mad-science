@@ -15,5 +15,9 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [torrent-mount](https://www.npmjs.org/package/torrent-mount) - Mount a torrent as a filesystem
 - [simple-peer](https://www.npmjs.org/package/simple-peer) - send video/voice/data p2p in the browser
 
+## streams
+
+- [strip-html](https://www.npmjs.org/package/strip-html) - strip html from a stream
+
 ## packaging
 - [browserify](https://npmjs.org/package/browserify) - use `require()` in the browser
