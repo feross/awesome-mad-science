@@ -6,6 +6,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 ## text
 - [sbd](https://www.npmjs.org/package/sbd) - split text into sentences
 - [franc](https://www.npmjs.org/package/franc) - detect the language of text
+- [normit](https://www.npmjs.org/package/normit) - Google translate & speech synthesis
 
 ## files
 - [mmmagic](https://www.npmjs.org/package/mmmagic) - detect file content types by data inspection
