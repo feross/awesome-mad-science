@@ -13,7 +13,8 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [franc](https://www.npmjs.org/package/franc) - detect the language of text
 - [normit](https://www.npmjs.org/package/normit) - Google translate text & speak it
 - [sentiment](https://www.npmjs.org/package/sentiment) - basic sentiment analysis
-- [diff](https://www.npmjs.org/package/diff) - diff text
+- [diff](https://www.npmjs.org/package/diff) - show text differences
+- [pullquoter](https://www.npmjs.org/package/pullquoter) - pull interesting quotes out of an article
 
 ## files
 - [mmmagic](https://www.npmjs.org/package/mmmagic) - detect file content types by data inspection
