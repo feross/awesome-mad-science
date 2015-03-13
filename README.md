@@ -6,7 +6,9 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 ## peer-to-peer
 - [webtorrent](https://www.npmjs.org/package/webtorrent) - streaming torrent client for node & the browser
 - [torrent-mount](https://www.npmjs.org/package/torrent-mount) - mount a torrent as a filesystem
-- [simple-peer](https://www.npmjs.org/package/simple-peer) - send video/voice/data p2p in the browser
+- [peerwiki](https://www.npmjs.org/package/peerwiki) - all of wikipedia on bittorrent
+- [torrent-docker](https://www.npmjs.org/package/torrent-docker) - realtime boot of remote docker images over bittorrent
+- [simple-peer](https://www.npmjs.org/package/simple-peer) - send video/voice/data p2p in the browser (with webrtc)
 
 ## text
 - [sbd](https://www.npmjs.org/package/sbd) - split text into sentences
@@ -38,3 +40,5 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 ## misc
 - [bitcoinjs-lib](https://www.npmjs.org/package/bitcoinjs-lib) - bitcoin client for node & the browser
 - [qr-image](https://www.npmjs.org/package/qr-image) - generate QR codes
+
+PRs welcome!
