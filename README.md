@@ -21,6 +21,9 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [ocrad.js](https://www.npmjs.com/package/ocrad.js) - OCR in Javascript via Emscripten
 - [indico.io](https://www.npmjs.com/package/indico.io) - political sentiment analysis
 
+## images
+- [indico.io](https://www.npmjs.com/package/indico.io) - facial emotion recognition and facial feature extraction
+
 ## files
 - [file-type](https://www.npmjs.com/package/file-type) - detect file content types by checking their magic numbers
 
