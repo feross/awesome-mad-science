@@ -20,6 +20,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 
 ## files
 - [mmmagic](https://www.npmjs.com/package/mmmagic) - detect file content types by data inspection
+- [file-type](https://www.npmjs.com/package/file-type) - detect file content types by checking their magic numbers
 
 ## geo
 - [google-distance](https://www.npmjs.com/package/google-distance) - calculate distance between two locations
