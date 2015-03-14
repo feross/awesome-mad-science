@@ -17,6 +17,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [sentiment](https://www.npmjs.com/package/sentiment) - basic sentiment analysis
 - [diff](https://www.npmjs.com/package/diff) - show text differences
 - [pullquoter](https://www.npmjs.com/package/pullquoter) - pull interesting quotes out of an article
+- [indico.io](https://www.npmjs.com/package/indico.io) - political sentiment analysis
 
 ## files
 - [file-type](https://www.npmjs.com/package/file-type) - detect file content types by checking their magic numbers
