@@ -19,7 +19,6 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [pullquoter](https://www.npmjs.com/package/pullquoter) - pull interesting quotes out of an article
 
 ## files
-- [mmmagic](https://www.npmjs.com/package/mmmagic) - detect file content types by data inspection
 - [file-type](https://www.npmjs.com/package/file-type) - detect file content types by checking their magic numbers
 
 ## geo
