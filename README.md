@@ -19,6 +19,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [pullquoter](https://www.npmjs.com/package/pullquoter) - pull interesting quotes out of an article
 - [node-tesseract](https://www.npmjs.com/package/node-tesseract) - A simple wrapper for the Tesseract OCR package
 - [ocrad.js](https://www.npmjs.com/package/ocrad.js) - OCR in Javascript via Emscripten
+- [indico.io](https://www.npmjs.com/package/indico.io) - political sentiment analysis
 
 ## files
 - [file-type](https://www.npmjs.com/package/file-type) - detect file content types by checking their magic numbers
