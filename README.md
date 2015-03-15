@@ -43,6 +43,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 ## misc
 - [bitcoinjs-lib](https://www.npmjs.com/package/bitcoinjs-lib) - bitcoin client for node & the browser
 - [qr-image](https://www.npmjs.com/package/qr-image) - generate QR codes
+- [fuse4js](https://github.com/bcle/fuse4js) - write filesystem driver in js
 
 
 PRs welcome!
