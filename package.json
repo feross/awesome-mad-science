@@ -1,0 +1,25 @@
+{
+  "name": "mad-science-modules",
+  "description": "Delightful npm packages that make you say \"wow, didn't know that was possible!\"",
+  "version": "1.0.0",
+  "author": {
+    "name": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "http://feross.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/feross/mad-science-modules/issues"
+  },
+  "homepage": "https://github.com/feross/mad-science-modules",
+  "keywords": [
+    "mad science",
+    "mad science modules",
+    "science",
+    "hackathon"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/mad-science-modules.git"
+  }
+}
