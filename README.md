@@ -49,8 +49,8 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 ## misc
 - [bitcoinjs-lib](https://www.npmjs.com/package/bitcoinjs-lib) - bitcoin client for node & the browser
 - [qr-image](https://www.npmjs.com/package/qr-image) - generate QR codes
-- [bell.js](https://github.com/eleme/bell.js) - real-time anomalies detection for periodic time series.
-- [fuse4js](https://github.com/bcle/fuse4js) - write filesystem driver in js
+- [bell.js](https://www.npmjs.com/package/bell.js) - real-time anomalies detection for periodic time series.
+- [fuse4js](https://www.npmjs.com/package/fuse4js) - write filesystem driver in js
 - [fastparallel](https://www.npmjs.com/package/fastparallel) - zero overhead parallel function calls
 
 
