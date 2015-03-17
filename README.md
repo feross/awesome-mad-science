@@ -51,6 +51,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [qr-image](https://www.npmjs.com/package/qr-image) - generate QR codes
 - [bell.js](https://github.com/eleme/bell.js) - real-time anomalies detection for periodic time series.
 - [fuse4js](https://github.com/bcle/fuse4js) - write filesystem driver in js
+- [fastparallel](https://www.npmjs.com/package/fastparallel) - zero overhead parallel function calls
 
 
 PRs welcome!
