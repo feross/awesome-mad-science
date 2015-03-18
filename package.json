@@ -1,7 +1,7 @@
 {
   "name": "mad-science-modules",
   "description": "Delightful npm packages that make you say \"wow, didn't know that was possible!\"",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
