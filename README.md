@@ -63,4 +63,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [Dominic Tarr](https://www.npmjs.com/~dominictarr) - streams, distributed systems
 - [Elijah Insua](https://www.npmjs.com/~tmpvar) - NC machines, CAD/CAM
 
+## graphics/gui
+- [x11](https://www.npmjs.com/package/x11) - X-Windows core and extensions protocol client, XLib/Xrender/Xshape/Xrandr/GLX/etc equivalent in javascript
+
 PRs welcome!
