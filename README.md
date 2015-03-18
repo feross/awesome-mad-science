@@ -53,5 +53,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [fuse4js](https://www.npmjs.com/package/fuse4js) - write filesystem driver in js
 - [fastparallel](https://www.npmjs.com/package/fastparallel) - zero overhead parallel function calls
 
+## graphics/gui
+- [x11](https://www.npmjs.com/package/x11) - X-Windows core and extensions protocol client, XLib/Xrender/Xshape/Xrandr/GLX/etc equivalent in javascript
 
 PRs welcome!
