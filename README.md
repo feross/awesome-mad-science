@@ -31,7 +31,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [convex-hull](https://www.npmjs.com/package/convex-hull) - robust any dimensional convex hull
 - [delaunay-triangulate](https://www.npmjs.com/package/delaunay-triangulate) - robust any dimensional delaunay triangulation
 - [voronoi-diagram](https://www.npmjs.com/package/voronoi-diagram) - any dimensional voronoi diagrams
-- [alpha-shape](https://www.npmjs.com/package/alpha-shape) - any dimensional alpha shape computations
+- [alpha-shape](https://www.npmjs.com/package/alpha-shape) - any dimensional alpha shapes (think "concave" hull)
 - [box-intersect](https://www.npmjs.com/package/box-intersect) - fast any dimensional box intersection detection
 - [surface-nets](https://www.npmjs.com/package/surface-nets) - extracts level sets in any dimension
 - [voxelize](https://www.npmjs.com/package/voxelize) - voxelize a mesh
