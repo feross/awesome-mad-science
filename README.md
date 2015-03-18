@@ -47,9 +47,9 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [cyclon](https://www.npmjs.com/package/cylon) - command robots, devices, and more from node
 
 ## virtual machines
-- [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript 
-- [jvm](https://github.com/YaroslavGaponov/node-jvm) - java virtual machine in pure node.js
-- [jslinux](https://github.com/tlrobinson/node-jslinux) - x86 emulator for running Linux, written in JavaScript
+- [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript
+- [jvm](https://www.npmjs.com/package/node-jvm) - java virtual machine in pure node.js
+- [jslinux](https://www.npmjs.com/package/jslinux) - x86 emulator for running Linux, written in JavaScript
 
 ## misc
 - [bitcoinjs-lib](https://www.npmjs.com/package/bitcoinjs-lib) - bitcoin client for node & the browser
