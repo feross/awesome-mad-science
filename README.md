@@ -53,5 +53,9 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [fuse4js](https://www.npmjs.com/package/fuse4js) - write filesystem driver in js
 - [fastparallel](https://www.npmjs.com/package/fastparallel) - zero overhead parallel function calls
 
+## Mad Scientists
+- [Mikola Lysenko](https://www.npmjs.com/~mikolalysenko) - linear algebra, computational geometry, WebGL
+- [Dominic Tarr](https://www.npmjs.com/~dominictarr) - streams, distributed systems
+- [Elijah Insua](https://www.npmjs.com/~tmpvar) - NC machines, CAD/CAM
 
 PRs welcome!
