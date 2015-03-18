@@ -28,7 +28,14 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [file-type](https://www.npmjs.com/package/file-type) - detect file content types by checking their magic numbers
 
 ## geo
-- [google-distance](https://www.npmjs.com/package/google-distance) - calculate distance between two locations
+- [convex-hull](https://www.npmjs.com/package/convex-hull) - robust any dimensional convex hull
+- [delaunay-triangulate](https://www.npmjs.com/package/delaunay-triangulate) - robust any dimensional delaunay triangulation
+- [voronoi-diagram](https://www.npmjs.com/package/voronoi-diagram) - any dimensional voronoi diagrams
+- [alpha-shape](https://www.npmjs.com/package/alpha-shape) - any dimensional alpha shapes (think "concave" hull)
+- [box-intersect](https://www.npmjs.com/package/box-intersect) - fast any dimensional box intersection detection
+- [surface-nets](https://www.npmjs.com/package/surface-nets) - extracts level sets in any dimension
+- [voxelize](https://www.npmjs.com/package/voxelize) - voxelize a mesh
+- [google-distance](https://www.npmjs.com/package/google-distance) - calculate travel distance between two locations on earth using Google Maps' API
 
 ## streams
 - [strip-html](https://www.npmjs.com/package/strip-html) - strip html from a stream
@@ -42,6 +49,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [browserify](https://npmjs.org/package/browserify) - use `require()` in the browser
 - [brfs](https://www.npmjs.com/package/brfs) - turn `fs.readFileSync()` calls into inlined static assets
 - [browser field spec](https://gist.github.com/defunctzombie/4339901) - replace certain files/modules when a module is bundled for the browser
+- [webworkify](https://www.npmjs.com/package/webworkify) - composable web workers for browserify
 
 ## hardware
 - [cyclon](https://www.npmjs.com/package/cylon) - command robots, devices, and more from node
