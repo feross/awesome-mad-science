@@ -68,7 +68,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 
 ## meta-programming
 
-- [notevil](git@github.com:dominictarr/mad-science-modules.git) - javascript javascript interpreter, useful for running untrusted code safely.
+- [notevil](https://www.npmjs.com/package/notevil) - javascript javascript interpreter, useful for running untrusted code safely.
 
 ## mad scientists (people)
 - [Mikola Lysenko](https://www.npmjs.com/~mikolalysenko) - linear algebra, computational geometry, WebGL
