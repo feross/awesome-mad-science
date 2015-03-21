@@ -35,6 +35,9 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 ## images
 - [indico.io](https://www.npmjs.com/package/indico.io) - facial emotion recognition and facial feature extraction
 
+## sound
+- [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers
+
 ## streams
 - [strip-html](https://www.npmjs.com/package/strip-html) - strip html from a stream
 
