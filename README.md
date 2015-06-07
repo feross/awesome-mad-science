@@ -78,6 +78,6 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [Mikola Lysenko](https://www.npmjs.com/~mikolalysenko) - linear algebra, computational geometry, WebGL
 - [Dominic Tarr](https://www.npmjs.com/~dominictarr) - streams, distributed systems
 - [Elijah Insua](https://www.npmjs.com/~tmpvar) - NC machines, CAD/CAM
-- [Mathias Buus](github.com/mafintosh) - torrents in node, fuse bindings, protocol buffers
+- [Mathias Buus](https://github.com/mafintosh) - torrents in node, fuse bindings, protocol buffers
 
 PRs welcome!
