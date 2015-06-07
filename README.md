@@ -37,6 +37,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 
 ## sound
 - [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers
+- [speak.js] (https://github.com/kripken/speak.js/) - text-to-speech on the web
 
 ## streams
 - [strip-html](https://www.npmjs.com/package/strip-html) - strip html from a stream
