@@ -30,7 +30,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [voxelize](https://www.npmjs.com/package/voxelize) - voxelize a mesh
 
 ## hardware
-- [cyclon](https://www.npmjs.com/package/cylon) - command robots, devices, and more from node
+- [cylon](https://www.npmjs.com/package/cylon) - command robots, devices, and more from node
 
 ## images
 - [indico.io](https://www.npmjs.com/package/indico.io) - facial emotion recognition and facial feature extraction
