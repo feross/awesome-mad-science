@@ -81,3 +81,9 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [Mathias Buus](https://github.com/mafintosh) - torrents in node, fuse bindings, protocol buffers
 
 PRs welcome!
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Feross Aboukhadijeh](http://feross.org) has waived all copyright and related or neighboring rights to this work.
