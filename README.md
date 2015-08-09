@@ -1,9 +1,6 @@
-Mad Science Modules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===================
+# Awesome Mad Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
-
-Delightful npm packages that make you say "wow, didn't know that was possible!"
+Delightful npm packages that make you say "wow, didn't know that was possible!" PRs welcome!
 
 ## peer-to-peer
 - [peerwiki](https://www.npmjs.com/package/peerwiki) - all of wikipedia on bittorrent
@@ -39,7 +36,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 
 ## sound
 - [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers
-- [speak.js] (https://github.com/mattytemple/speak-js) - text-to-speech on the web
+- [speak.js](https://github.com/mattytemple/speak-js) - text-to-speech on the web
 
 ## streams
 - [strip-html](https://www.npmjs.com/package/strip-html) - strip html from a stream
@@ -81,9 +78,9 @@ Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [Mikola Lysenko](https://www.npmjs.com/~mikolalysenko) - linear algebra, computational geometry, WebGL
 - [Dominic Tarr](https://www.npmjs.com/~dominictarr) - streams, distributed systems
 - [Elijah Insua](https://www.npmjs.com/~tmpvar) - NC machines, CAD/CAM
-- [Mathias Buus](https://github.com/mafintosh) - torrents in node, fuse bindings, protocol buffers
-
-PRs welcome!
+- [Mathias Buus](https://github.com/mafintosh) - torrents in node, fuse bindings, data replication
+- [Feross Aboukhadijeh](https://github.com/feross) - webtorrent, bittorrent, p2p hacks
+- [Max Ogden](https://github.com/maxogden) - streams, voxels, data replication
 
 ## License
 

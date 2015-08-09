@@ -1,5 +1,5 @@
 {
-  "name": "mad-science-modules",
+  "name": "awesome-mad-science",
   "description": "Delightful npm packages that make you say \"wow, didn't know that was possible!\"",
   "version": "1.1.0",
   "author": {
@@ -8,9 +8,9 @@
     "url": "http://feross.org/"
   },
   "bugs": {
-    "url": "https://github.com/feross/mad-science-modules/issues"
+    "url": "https://github.com/feross/awesome-mad-science/issues"
   },
-  "homepage": "https://github.com/feross/mad-science-modules",
+  "homepage": "https://github.com/feross/awesome-mad-science",
   "keywords": [
     "mad science",
     "mad science modules",
@@ -20,6 +20,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/mad-science-modules.git"
+    "url": "git://github.com/feross/awesome-mad-science.git"
   }
 }
