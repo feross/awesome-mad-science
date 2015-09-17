@@ -62,6 +62,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript
 - [jslinux](https://www.npmjs.com/package/jslinux) - x86 emulator for running Linux, written in JavaScript
 - [jvm](https://www.npmjs.com/package/node-jvm) - java virtual machine in pure node.js
+- [doppio](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript
 
 ## misc
 - [bell.js](https://www.npmjs.com/package/bell.js) - real-time anomalies detection for periodic time series.
