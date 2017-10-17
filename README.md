@@ -19,6 +19,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 ## files
 - [file-type](https://www.npmjs.com/package/file-type) - detect file content types by checking their magic numbers
 - [fuse4js](https://www.npmjs.com/package/fuse4js) - write filesystem driver in js
+- [xlsx](https://www.npmjs.com/package/xlsx) - read and write Excel spreadsheets in JS
 
 ## geometry
 - [alpha-shape](https://www.npmjs.com/package/alpha-shape) - any dimensional alpha shapes (think "concave" hull)
