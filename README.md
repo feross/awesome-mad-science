@@ -60,6 +60,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [terminal-menu](https://www.npmjs.com/package/terminal-menu) - create retro terminal menus
 - [vantage.js](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node
 - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6
+- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 
 ## virtual machines
 - [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript
