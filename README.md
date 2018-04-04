@@ -73,6 +73,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [fastparallel](https://www.npmjs.com/package/fastparallel) - zero overhead parallel function calls
 - [google-distance](https://www.npmjs.com/package/google-distance) - calculate travel distance between two locations on earth using Google Maps' API
 - [qr-image](https://www.npmjs.com/package/qr-image) - generate QR codes
+- [console-markdown](https://www.npmjs.com/package/console-markdown) - Render markdown nicely to the browser console
 
 ## meta-programming
 
