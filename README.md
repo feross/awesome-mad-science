@@ -42,6 +42,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 
 ## streams
 - [strip-html](https://www.npmjs.com/package/strip-html) - strip html from a stream
+- [OpenRadio](https://github.com/javaarchive/OpenRadio) create multiple infinite mp3 streams of youtube playlists with or without shuffling. 
 
 ## text
 - [diff](https://www.npmjs.com/package/diff) - show text differences
