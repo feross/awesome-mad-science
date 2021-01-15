@@ -33,6 +33,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [cylon](https://www.npmjs.com/package/cylon) - command robots, devices, and more from node
 
 ## images
+- [NSFWJS.com](https://nsfwjs.com/) - detect indecent content in JavaScript
 - [indico.io](https://www.npmjs.com/package/indico.io) - facial emotion recognition and facial feature extraction
 - [trackingjs](https://trackingjs.com/) - computer vision on the web
 
