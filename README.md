@@ -53,6 +53,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [pullquoter](https://www.npmjs.com/package/pullquoter) - pull interesting quotes out of an article
 - [sbd](https://www.npmjs.com/package/sbd) - split text into sentences
 - [sentiment](https://www.npmjs.com/package/sentiment) - basic sentiment analysis
+- [string-diff-viewer](https://github.com/fengzilong/string-diff-viewer) - diff two string in a git-diff-like way (with fancy looking)
 
 ## terminal
 - [minimist](https://www.npmjs.com/package/minimist) - simple argument parser
