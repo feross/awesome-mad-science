@@ -40,6 +40,9 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [doppler](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers
 - [speak.js](https://github.com/mattytemple/speak-js) - text-to-speech on the web
 
+## video
+- [SABRE.js](https://www.npmjs.com/package/@sabre-js/sabre) - render SubStation Alpha and Advanced SubStation Alpha subtitles with highly complex effects, 3D positioning and animation, custom fonts and styles using a combination of Canvas 2D and WebGL in realtime over video in the browser.
+
 ## streams
 - [strip-html](https://www.npmjs.com/package/strip-html) - strip html from a stream
 
